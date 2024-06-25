@@ -29,5 +29,10 @@ The supplementary materials folder contains the following files:
 11. Stable_Virtual_Compounds: Contains only stable virtual compounds along with critical temperature and Ehull values..
 
 
+Usage: 
+
+1. Each file can be run using any Python IDE. 
+2. All codes are self-explanatory and filename changes are required to predict and train different files. 
+ 
 	
 	
